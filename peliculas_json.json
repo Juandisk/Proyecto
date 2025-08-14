@@ -1,0 +1,412 @@
+{
+  "accion": [
+    {
+      "id": 1,
+      "titulo": "Top Gun: Maverick",
+      "año": 2022,
+      "duración": "131 min",
+      "sinopsis": "Después de más de 30 años de servicio como uno de los mejores aviadores de la Armada, Pete 'Maverick' Mitchell está donde pertenece, empujando los límites como piloto de pruebas valiente y esquivando el avance en rango que lo pondría en tierra.",
+      "rating": 8.3,
+      "director": "Joseph Kosinski",
+      "actores": "Tom Cruise, Miles Teller, Jennifer Connelly"
+    },
+    {
+      "id": 2,
+      "titulo": "John Wick",
+      "año": 2014,
+      "duración": "101 min",
+      "sinopsis": "Un ex-asesino a sueldo sale de su retiro para rastrear a los gángsters que tomaron todo lo que él valoraba.",
+      "rating": 7.4,
+      "director": "Chad Stahelski",
+      "actores": "Keanu Reeves, Michael Nyqvist, Alfie Allen"
+    },
+    {
+      "id": 3,
+      "titulo": "Mad Max: Fury Road",
+      "año": 2015,
+      "duración": "120 min",
+      "sinopsis": "En un mundo post-apocalíptico, Max se alía con Furiosa para escapar de un señor de la guerra y su ejército en una búsqueda de supervivencia en el desierto.",
+      "rating": 8.1,
+      "director": "George Miller",
+      "actores": "Tom Hardy, Charlize Theron, Nicholas Hoult"
+    },
+    {
+      "id": 4,
+      "titulo": "Spider-Man: No Way Home",
+      "año": 2021,
+      "duración": "148 min",
+      "sinopsis": "Peter Parker busca la ayuda del Doctor Strange para hacer que el mundo olvide que él es Spider-Man, pero el hechizo sale mal y trae visitantes peligrosos de otros universos.",
+      "rating": 8.2,
+      "director": "Jon Watts",
+      "actores": "Tom Holland, Zendaya, Benedict Cumberbatch"
+    },
+    {
+      "id": 5,
+      "titulo": "The Batman",
+      "año": 2022,
+      "duración": "176 min",
+      "sinopsis": "En su segundo año luchando contra el crimen, Batman descubre la corrupción en Gotham City que conecta a su propia familia mientras se enfrenta a un asesino serial conocido como Riddler.",
+      "rating": 7.8,
+      "director": "Matt Reeves",
+      "actores": "Robert Pattinson, Zoë Kravitz, Jeffrey Wright"
+    },
+    {
+      "id": 6,
+      "titulo": "Fast & Furious 9",
+      "año": 2021,
+      "duración": "143 min",
+      "sinopsis": "Dom y Letty están viviendo una vida tranquila con su hijo pequeño, pero el peligro siempre acecha. Esta vez, esa amenaza los obligará a enfrentar los pecados del pasado de Dom si quieren salvar a quienes más aman.",
+      "rating": 5.2,
+      "director": "Justin Lin",
+      "actores": "Vin Diesel, Michelle Rodriguez, Jordana Brewster"
+    },
+    {
+      "id": 7,
+      "titulo": "Dune",
+      "año": 2021,
+      "duración": "155 min",
+      "sinopsis": "Paul Atreides, un joven brillante y talentoso nacido con un gran destino más allá de su comprensión, debe viajar al planeta más peligroso del universo para asegurar el futuro de su familia y su pueblo.",
+      "rating": 8.0,
+      "director": "Denis Villeneuve",
+      "actores": "Timothée Chalamet, Rebecca Ferguson, Oscar Isaac"
+    },
+    {
+      "id": 8,
+      "titulo": "Mission: Impossible - Fallout",
+      "año": 2018,
+      "duración": "147 min",
+      "sinopsis": "Ethan Hunt y su equipo de IMF, junto con algunos aliados familiares, corren contra el tiempo después de que una misión sale mal.",
+      "rating": 7.7,
+      "director": "Christopher McQuarrie",
+      "actores": "Tom Cruise, Henry Cavill, Ving Rhames"
+    }
+  ],
+  "comedia": [
+    {
+      "id": 9,
+      "titulo": "Shrek",
+      "año": 2001,
+      "duración": "90 min",
+      "sinopsis": "Un ogro malhumorado se embarca en una búsqueda para rescatar a una princesa para un señor despótico, solo para encontrar algo más que esperaba.",
+      "rating": 7.9,
+      "director": "Andrew Adamson, Vicky Jenson",
+      "actores": "Mike Myers, Eddie Murphy, Cameron Diaz"
+    },
+    {
+      "id": 10,
+      "titulo": "Jumanji: Welcome to the Jungle",
+      "año": 2017,
+      "duración": "119 min",
+      "sinopsis": "Cuatro adolescentes se ven succionados hacia un videojuego mágico, y la única forma de escapar es trabajar juntos para terminar el juego.",
+      "rating": 6.9,
+      "director": "Jake Kasdan",
+      "actores": "Dwayne Johnson, Kevin Hart, Jack Black"
+    },
+    {
+      "id": 11,
+      "titulo": "Home Alone",
+      "año": 1990,
+      "duración": "103 min",
+      "sinopsis": "Un niño de 8 años es accidentalmente dejado atrás por su familia durante las vacaciones de Navidad y debe defender su casa de dos ladrones incompetentes.",
+      "rating": 7.7,
+      "director": "Chris Columbus",
+      "actores": "Macaulay Culkin, Joe Pesci, Daniel Stern"
+    },
+    {
+      "id": 12,
+      "titulo": "The Hangover",
+      "año": 2009,
+      "duración": "100 min",
+      "sinopsis": "Tres padrinos de boda despiertan de una despedida de soltero en Las Vegas sin memoria de la noche anterior y el novio desaparecido.",
+      "rating": 7.7,
+      "director": "Todd Phillips",
+      "actores": "Bradley Cooper, Ed Helms, Zach Galifianakis"
+    },
+    {
+      "id": 13,
+      "titulo": "Superbad",
+      "año": 2007,
+      "duración": "113 min",
+      "sinopsis": "Dos estudiantes de último año de secundaria co-dependientes están a punto de graduarse. Pero en la última fiesta antes de separarse, todo sale mal.",
+      "rating": 7.6,
+      "director": "Greg Mottola",
+      "actores": "Jonah Hill, Michael Cera, Christopher Mintz-Plasse"
+    },
+    {
+      "id": 14,
+      "titulo": "Deadpool",
+      "año": 2016,
+      "duración": "108 min",
+      "sinopsis": "Un ex-operativo de fuerzas especiales convertido en mercenario se somete a un experimento que le da poderes de curación acelerada pero lo desfigura terriblemente.",
+      "rating": 8.0,
+      "director": "Tim Miller",
+      "actores": "Ryan Reynolds, Morena Baccarin, T.J. Miller"
+    },
+    {
+      "id": 15,
+      "titulo": "Guardians of the Galaxy",
+      "año": 2014,
+      "duración": "121 min",
+      "sinopsis": "Un grupo de inadaptados intergalácticos debe trabajar juntos para evitar que un fanático cósmico destruya el universo.",
+      "rating": 8.0,
+      "director": "James Gunn",
+      "actores": "Chris Pratt, Vin Diesel, Bradley Cooper"
+    },
+    {
+      "id": 16,
+      "titulo": "Toy Story",
+      "año": 1995,
+      "duración": "81 min",
+      "sinopsis": "Un juguete vaquero se siente amenazado y celoso cuando un nuevo juguete espacial toma su lugar como el juguete favorito en la habitación de un niño.",
+      "rating": 8.3,
+      "director": "John Lasseter",
+      "actores": "Tom Hanks, Tim Allen, Don Rickles"
+    }
+  ],
+  "terror": [
+    {
+      "id": 17,
+      "titulo": "It",
+      "año": 2017,
+      "duración": "135 min",
+      "sinopsis": "En el verano de 1989, un grupo de niños marginados en Maine se unen para conquistar sus peores miedos y destruir al payaso asesino Pennywise.",
+      "rating": 7.3,
+      "director": "Andy Muschietti",
+      "actores": "Bill Skarsgård, Jaeden Martell, Finn Wolfhard"
+    },
+    {
+      "id": 18,
+      "titulo": "The Conjuring",
+      "año": 2013,
+      "duración": "112 min",
+      "sinopsis": "Los investigadores paranormales Ed y Lorraine Warren trabajan para ayudar a una familia aterrorizada por una presencia oscura en su granja.",
+      "rating": 7.5,
+      "director": "James Wan",
+      "actores": "Patrick Wilson, Vera Farmiga, Ron Livingston"
+    },
+    {
+      "id": 19,
+      "titulo": "Scream",
+      "año": 1996,
+      "duración": "111 min",
+      "sinopsis": "Un año después del asesinato de su madre, una adolescente es aterrorizada por un nuevo asesino que apunta a ella y a sus amigos.",
+      "rating": 7.4,
+      "director": "Wes Craven",
+      "actores": "Neve Campbell, Courteney Cox, David Arquette"
+    },
+    {
+      "id": 20,
+      "titulo": "A Quiet Place",
+      "año": 2018,
+      "duración": "90 min",
+      "sinopsis": "En un mundo post-apocalíptico, una familia vive en silencio mientras se esconde de monstruos con audición ultra sensible.",
+      "rating": 7.5,
+      "director": "John Krasinski",
+      "actores": "Emily Blunt, John Krasinski, Millicent Simmonds"
+    },
+    {
+      "id": 21,
+      "titulo": "Hereditary",
+      "año": 2018,
+      "duración": "127 min",
+      "sinopsis": "Una familia en duelo se ve atormentada por eventos trágicos y perturbadores.",
+      "rating": 7.3,
+      "director": "Ari Aster",
+      "actores": "Toni Collette, Gabriel Byrne, Alex Wolff"
+    },
+    {
+      "id": 22,
+      "titulo": "Get Out",
+      "año": 2017,
+      "duración": "104 min",
+      "sinopsis": "Un joven afroamericano visita la finca de la familia de su novia blanca para el fin de semana, donde sus inquietudes iniciales sobre su recepción eventualmente dan paso a una verdad mucho más siniestra.",
+      "rating": 7.8,
+      "director": "Jordan Peele",
+      "actores": "Daniel Kaluuya, Allison Williams, Catherine Keener"
+    },
+    {
+      "id": 23,
+      "titulo": "The Babadook",
+      "año": 2014,
+      "duración": "94 min",
+      "sinopsis": "Una madre viuda está siendo atormentada por la presencia violenta de un monstruo de un libro de cuentos para niños.",
+      "rating": 6.8,
+      "director": "Jennifer Kent",
+      "actores": "Essie Davis, Noah Wiseman, Daniel Henshall"
+    },
+    {
+      "id": 24,
+      "titulo": "Midsommar",
+      "año": 2019,
+      "duración": "147 min",
+      "sinopsis": "Una pareja en crisis viaja a Suecia para visitar el festival de verano rural de un amigo, pero lo que comienza como unas vacaciones idílicas se convierte rápidamente en una pesadilla competitiva y violenta.",
+      "rating": 7.1,
+      "director": "Ari Aster",
+      "actores": "Florence Pugh, Jack Reynor, Vilhelm Blomgren"
+    }
+  ],
+  "romance": [
+    {
+      "id": 25,
+      "titulo": "Titanic",
+      "año": 1997,
+      "duración": "194 min",
+      "sinopsis": "Un aristócrata de diecisiete años se enamora de un artista gentil pero pobre a bordo del lujoso e infortunado R.M.S. Titanic.",
+      "rating": 7.9,
+      "director": "James Cameron",
+      "actores": "Leonardo DiCaprio, Kate Winslet, Billy Zane"
+    },
+    {
+      "id": 26,
+      "titulo": "The Notebook",
+      "año": 2004,
+      "duración": "123 min",
+      "sinopsis": "Un hombre pobre y una mujer rica se enamoran durante el verano, pero se separan. Años más tarde, se reencuentran cuando ella está comprometida con otro hombre.",
+      "rating": 7.8,
+      "director": "Nick Cassavetes",
+      "actores": "Ryan Gosling, Rachel McAdams, James Garner"
+    },
+    {
+      "id": 27,
+      "titulo": "Dirty Dancing",
+      "año": 1987,
+      "duración": "100 min",
+      "sinopsis": "Pasando el verano en un resort de Catskills con su familia, Frances 'Baby' Houseman se enamora del instructor de baile del campamento, Johnny Castle.",
+      "rating": 7.0,
+      "director": "Emile Ardolino",
+      "actores": "Patrick Swayze, Jennifer Grey, Cynthia Rhodes"
+    },
+    {
+      "id": 28,
+      "titulo": "La La Land",
+      "año": 2016,
+      "duración": "128 min",
+      "sinopsis": "Mientras navegan por sus carreras en Los Ángeles, un pianista y una actriz se enamoran mientras intentan reconciliar sus aspiraciones para el futuro.",
+      "rating": 8.0,
+      "director": "Damien Chazelle",
+      "actores": "Ryan Gosling, Emma Stone, Rosemarie DeWitt"
+    },
+    {
+      "id": 29,
+      "titulo": "Casablanca",
+      "año": 1942,
+      "duración": "102 min",
+      "sinopsis": "Un expatriado americano cínico que dirige un café en Casablanca durante la Segunda Guerra Mundial se encuentra con una antigua amante, ahora casada con un líder de la resistencia.",
+      "rating": 8.5,
+      "director": "Michael Curtiz",
+      "actores": "Humphrey Bogart, Ingrid Bergman, Paul Henreid"
+    },
+    {
+      "id": 30,
+      "titulo": "Pride and Prejudice",
+      "año": 2005,
+      "duración": "129 min",
+      "sinopsis": "Obstinada Elizabeth Bennet y arrogante Mr. Darcy deben superar sus diferencias de clase en la Inglaterra del siglo XIX.",
+      "rating": 7.8,
+      "director": "Joe Wright",
+      "actores": "Keira Knightley, Matthew Macfadyen, Brenda Blethyn"
+    },
+    {
+      "id": 31,
+      "titulo": "When Harry Met Sally",
+      "año": 1989,
+      "duración": "96 min",
+      "sinopsis": "Harry y Sally han sabido el uno del otro durante años, y están seguros de que nunca pueden ser más que amigos.",
+      "rating": 7.7,
+      "director": "Rob Reiner",
+      "actores": "Billy Crystal, Meg Ryan, Carrie Fisher"
+    },
+    {
+      "id": 32,
+      "titulo": "Ghost",
+      "año": 1990,
+      "duración": "127 min",
+      "sinopsis": "Después de que un joven es asesinado, su espíritu permanece atrás para advertir a su amante del peligro inminente, con la ayuda de un médium psíquico reluctante.",
+      "rating": 7.1,
+      "director": "Jerry Zucker",
+      "actores": "Patrick Swayze, Demi Moore, Whoopi Goldberg"
+    }
+  ],
+  "ciencia_ficcion": [
+    {
+      "id": 33,
+      "titulo": "Blade Runner 2049",
+      "año": 2017,
+      "duración": "164 min",
+      "sinopsis": "El joven Blade Runner K descubre un secreto largamente enterrado que tiene el potencial de sumergir lo que queda de la sociedad en el caos.",
+      "rating": 8.0,
+      "director": "Denis Villeneuve",
+      "actores": "Ryan Gosling, Harrison Ford, Ana de Armas"
+    },
+    {
+      "id": 34,
+      "titulo": "Interstellar",
+      "año": 2014,
+      "duración": "169 min",
+      "sinopsis": "Un equipo de exploradores viaja a través de un agujero de gusano en el espacio en un intento de asegurar la supervivencia de la humanidad.",
+      "rating": 8.6,
+      "director": "Christopher Nolan",
+      "actores": "Matthew McConaughey, Anne Hathaway, Jessica Chastain"
+    },
+    {
+      "id": 35,
+      "titulo": "The Matrix",
+      "año": 1999,
+      "duración": "136 min",
+      "sinopsis": "Un hacker informático aprende de misteriosos rebeldes sobre la verdadera naturaleza de su realidad y su papel en la guerra contra sus controladores.",
+      "rating": 8.7,
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "actores": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss"
+    },
+    {
+      "id": 36,
+      "titulo": "Star Wars: A New Hope",
+      "año": 1977,
+      "duración": "121 min",
+      "sinopsis": "Luke Skywalker se une a un caballero Jedi, un piloto arrogante, un Wookiee y dos droides para salvar a la galaxia del Imperio y su arma de destrucción masiva, la Estrella de la Muerte.",
+      "rating": 8.6,
+      "director": "George Lucas",
+      "actores": "Mark Hamill, Harrison Ford, Carrie Fisher"
+    },
+    {
+      "id": 37,
+      "titulo": "Arrival",
+      "año": 2016,
+      "duración": "116 min",
+      "sinopsis": "Una lingüista trabaja con el ejército para comunicarse con formas de vida alienígena después de que doce naves espaciales misteriosas aparezcan alrededor del mundo.",
+      "rating": 7.9,
+      "director": "Denis Villeneuve",
+      "actores": "Amy Adams, Jeremy Renner, Forest Whitaker"
+    },
+    {
+      "id": 38,
+      "titulo": "Ex Machina",
+      "año": 2014,
+      "duración": "108 min",
+      "sinopsis": "Un joven programador es seleccionado para participar en un experimento innovador en inteligencia artificial evaluando las cualidades humanas de una androide altamente avanzada.",
+      "rating": 7.7,
+      "director": "Alex Garland",
+      "actores": "Alicia Vikander, Domhnall Gleeson, Oscar Isaac"
+    },
+    {
+      "id": 39,
+      "titulo": "Inception",
+      "año": 2010,
+      "duración": "148 min",
+      "sinopsis": "Un ladrón que roba secretos corporativos a través del uso de tecnología de compartir sueños se le da la tarea inversa de plantar una idea en la mente de un CEO.",
+      "rating": 8.8,
+      "director": "Christopher Nolan",
+      "actores": "Leonardo DiCaprio, Marion Cotillard, Tom Hardy"
+    },
+    {
+      "id": 40,
+      "titulo": "Back to the Future",
+      "año": 1985,
+      "duración": "116 min",
+      "sinopsis": "Marty McFly, un estudiante de secundaria de 17 años, es enviado accidentalmente treinta años al pasado en un DeLorean que viaja en el tiempo.",
+      "rating": 8.5,
+      "director": "Robert Zemeckis",
+      "actores": "Michael J. Fox, Christopher Lloyd, Lea Thompson"
+    }
+  ]
+}

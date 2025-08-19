@@ -123,3 +123,9 @@ def cargar_pelicula():
 
     total_peliculas = 0
     for genero, lista_peliculas in peliculas_items():
+
+fsfssdfdsf
+
+
+
+dsvvssvvdvfv

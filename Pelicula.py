@@ -86,3 +86,40 @@ def main():
 
 if__name__="__main__"
 main()
+
+import json 
+import os 
+
+def cargar_pelicula():
+    try:
+        if not os.path.exists('peliculas.json'):
+            print("Error: No se encontró el archivo 'peliculas.json'")
+            print("Asegúrate de que esté en la misma carpeta que main.py")
+            return None 
+
+        with open('peliculas.json','r', encoding="UTF=8") as archivo:
+            pelicula = json.load(archivo)
+
+        if not peliculas: 
+            print("Error: El archivo JSON está vacio")
+            return None
+        
+        return peliculas 
+    
+    except json.JSONDecodeError as e: 
+        print(f"Error: El archivo JSON tiene formato incorrecto")
+        print(f"Detalle del error: {e}")
+        return None
+    except Exception as e:
+        print(f"Error inesperado")
+        return None
+    
+    def mostrar_estadisticas_carga(peliculas):
+        if not peliculas:
+            return
+        
+    print ("\n ESTADÍSTICAS DE CARGA:")
+    print("=" * 30)
+
+    total_peliculas = 0
+    for genero, lista_peliculas in peliculas_items():

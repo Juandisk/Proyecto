@@ -121,11 +121,4 @@ def cargar_pelicula():
     print ("\n ESTADÍSTICAS DE CARGA:")
     print("=" * 30)
 
-    total_peliculas = 0
-    for genero, lista_peliculas in peliculas_items():
 
-fsfssdfdsf
-
-
-
-dsvvssvvdvfv

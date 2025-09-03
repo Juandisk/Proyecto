@@ -2,8 +2,6 @@ import json
 import os
 import sys 
 
-#Dejar texto de iniciado del programa 
-
 favoritas = []
 historial = []
 
@@ -11,8 +9,6 @@ def main():
     print("Iniciando el programa, Bienvenido")
     print("Programa iniciado")
     
-if __name__ == "__main__": 
-    main()
     
 import os
 import json
@@ -83,7 +79,6 @@ def main():
 
     print("\nSistema listo para usar")
 
-if __name__ == "__main__":
     def limpiar_pantalla():
         os.system('cls' if os.name == 'nt' else 'clear')
     def mostrar_header():
@@ -193,3 +188,6 @@ if __name__ == "__main__":
                 mostrar_header()
                 mostrar_estadisticas_carga(peliculas)
                 pausar()
+                
+if __name__ == "__main__": 
+    main()

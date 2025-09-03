@@ -130,42 +130,42 @@ def main():
 
         elif opcion == "1":
             print("\n Has elegido: PELÍCULAS DE ACCIÓN")
-            print("🚧 Función en desarrollo...")
+            print(" Función en desarrollo...")
             pausar()
         
         elif opcion == "2":
             print("\n Has elegido: PELÍCULAS DE COMEDIA")
-            print("🚧 Función en desarrollo...")
+            print(" Función en desarrollo...")
             pausar()
         
         elif opcion == "3":
             print("\n Has elegido: PELÍCULAS DE TERROR")
-            print("🚧 Función en desarrollo...")
+            print(" Función en desarrollo...")
             pausar()
         
         elif opcion == "4":
             print("\n Has elegido: PELÍCULAS DE ROMANCE")
-            print("🚧 Función en desarrollo...")
+            print(" Función en desarrollo...")
             pausar()
         
         elif opcion == "5":
             print("\n Has elegido: PELÍCULAS DE CIENCIA FICCIÓN")
-            print("🚧 Función en desarrollo...")
+            print(" Función en desarrollo...")
             pausar()
         
         elif opcion == "6":
             print("\n Has elegido: BUSCAR PELÍCULA")
-            print("🚧 Función en desarrollo...")
+            print(" Función en desarrollo...")
             pausar()
         
         elif opcion == "7":
             print("\n Has elegido: TOP 10")
-            print("🚧 Función en desarrollo...")
+            print(" Función en desarrollo...")
             pausar()
         
         elif opcion == "8":
             print("\n Has elegido: MIS FAVORITAS")
-            print("🚧 Función en desarrollo...")
+            print(" Función en desarrollo...")
             pausar()
         
         elif opcion == "9":

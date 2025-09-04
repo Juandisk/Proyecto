@@ -184,29 +184,19 @@ def main():
                 break
 
             elif opcion == "1":
-                print("\n Has elegido: PELÍCULAS DE ACCIÓN")
-                print("🚧 Función en desarrollo...")
-                pausar()
+                procesar_seleccion_genero(peliculas, "accion", "ACCIÒN")
             
             elif opcion == "2":
-                print("\n Has elegido: PELÍCULAS DE COMEDIA")
-                print("🚧 Función en desarrollo...")
-                pausar()
+                procesar_seleccion_genero(peliculas, "comedia", "COMEDIA")
             
             elif opcion == "3":
-                print("\n Has elegido: PELÍCULAS DE TERROR")
-                print("🚧 Función en desarrollo...")
-                pausar()
-            
+                procesar_seleccion_genero(peliculas, "terror", "TERROR")
+                                            
             elif opcion == "4":
-                print("\n Has elegido: PELÍCULAS DE ROMANCE")
-                print("🚧 Función en desarrollo...")
-                pausar()
+                procesar_seleccion_genero(peliculas, "romance", "ROMANCE")
             
             elif opcion == "5":
-                print("\n Has elegido: PELÍCULAS DE CIENCIA FICCIÓN")
-                print("🚧 Función en desarrollo...")
-                pausar()
+                procesar_seleccion_genero(peliculas, "ciencia_ficcion", "CIENCIA FICCIÓN")
             
             elif opcion == "6":
                 print("\n Has elegido: BUSCAR PELÍCULA")
@@ -229,7 +219,6 @@ def main():
                 mostrar_estadisticas_carga(peliculas)
                 pausar()
                 
-            
 if __name__ == "__main__": 
     main()
     
